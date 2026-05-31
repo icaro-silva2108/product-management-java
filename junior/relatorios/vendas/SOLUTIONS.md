@@ -5,7 +5,7 @@ Soluções enviadas pela comunidade. Inspire-se ou compare abordagens!
 | Desenvolvedor | Linguagem | Repositório |
 |---|---|---|
 
-|[Francisco Montalvao](https://github.com/Francisco-Montalvao)|Java|[relatorio-de-vendas](https://github.com/Francisco-Montalvao/backend-challenges-desafio-relatorio-de-vendas)|
+| [Francisco Montalvao](https://github.com/Francisco-Montalvao)  |  Java  |  [relatorio-de-vendas](https://github.com/Francisco-Montalvao/backend-challenges-desafio-relatorio-de-vendas)|
 ## Como adicionar a sua
 
 1. Faça um **fork** deste repositório
