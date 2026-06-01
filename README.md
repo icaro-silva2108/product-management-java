@@ -60,10 +60,10 @@ Todo desafio tem três partes — cada uma com um propósito claro:
 
 | Desafio | Tema | Enunciado | Dicas | Soluções |
 |---------|------|-----------|-------|----------|
-| 📝 To-Do List API | CRUD | [Ver desafio](./junior/crud/todo-list/README.md) | [Dicas](./junior/crud/todo-list/dicas.md) | [Soluções](./junior/crud/todo-list/SOLUTIONS.md) |
-| 🔐 Login com JWT | Autenticação | [Ver desafio](./junior/autenticacao/login-jwt/README.md) | [Dicas](./junior/autenticacao/login-jwt/dicas.md) | [Soluções](./junior/autenticacao/login-jwt/SOLUTIONS.md) |
-| 📦 Gerenciador de Produtos | CRUD Avançado | [Ver desafio](./junior/crud/gerenciador-produtos/README.md) | [Dicas](./junior/crud/gerenciador-produtos/dicas.md) | [Soluções](./junior/crud/gerenciador-produtos/SOLUTIONS.md) |
-| 📊 Relatório de Vendas | Agregações | [Ver desafio](./junior/relatorios/vendas/README.md) | [Dicas](./junior/relatorios/vendas/dicas.md) | [Soluções](./junior/relatorios/vendas/SOLUTIONS.md) |
+| 📝 To-Do List API | CRUD | [Ver desafio](junior/todo-list/README.md) | [Dicas](junior/todo-list/dicas.md) | [Soluções](junior/todo-list/SOLUTIONS.md) |
+| 🔐 Login com JWT | Autenticação | [Ver desafio](junior/login-jwt/README.md) | [Dicas](junior/login-jwt/dicas.md) | [Soluções](junior/login-jwt/SOLUTIONS.md) |
+| 📦 Gerenciador de Produtos | CRUD Avançado | [Ver desafio](junior/gerenciador-produtos/README.md) | [Dicas](junior/gerenciador-produtos/dicas.md) | [Soluções](junior/gerenciador-produtos/SOLUTIONS.md) |
+| 📊 Relatório de Vendas | Agregações | [Ver desafio](junior/vendas/README.md) | [Dicas](junior/vendas/dicas.md) | [Soluções](junior/vendas/SOLUTIONS.md) |
 
 ### 🟡 Pleno — Sistemas Avançados
 > Mensageria, cache, performance e autenticação avançada.
@@ -89,9 +89,9 @@ Todo desafio tem três partes — cada uma com um propósito claro:
 
 | Se você... | Vá para |
 |-----------|---------|
-| É novo em APIs REST | [📝 To-Do List](./junior/crud/todo-list/README.md) — CRUD básico, sem complicação |
-| Quer praticar autenticação | [🔐 Login com JWT](./junior/autenticacao/login-jwt/README.md) |
-| Já sabe CRUD e quer algo a mais | [📦 Gerenciador de Produtos](./junior/crud/gerenciador-produtos/README.md) |
+| É novo em APIs REST | [📝 To-Do List](junior/todo-list/README.md) — CRUD básico, sem complicação |
+| Quer praticar autenticação | [🔐 Login com JWT](junior/login-jwt/README.md) |
+| Já sabe CRUD e quer algo a mais | [📦 Gerenciador de Produtos](junior/gerenciador-produtos/README.md) |
 | Quer aprender mensageria | [📨 Fila de Notificações](./pleno/mensageria/fila-notificacoes/README.md) |
 | Quer um desafio sério de arquitetura | [🏗️ Sistema de Pedidos](./senior/microsservicos/sistema-pedidos/README.md) |
 
