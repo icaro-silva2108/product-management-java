@@ -1,4 +1,4 @@
-# 🟡 Desafio Pleno: Gestão de Pedidos
+# 🟡 Desafio Junior: Gestão de Pedidos
 
 **Nível:** Junior++ | **Tema:** CRUD + Relacionamentos + Relatórios | **Tempo estimado:** 5 a 7 dias
 
