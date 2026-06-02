@@ -7,7 +7,7 @@ Resolva em qualquer linguagem. Aprenda. Mostre no portfólio.
 
 ---
 
-![Desafios](https://img.shields.io/badge/desafios-6%2B4%20planejados-4ade80?style=for-the-badge)
+![Desafios](https://img.shields.io/badge/desafios-7%2B3%20planejados-4ade80?style=for-the-badge)
 ![Níveis](https://img.shields.io/badge/níveis-júnior%20%7C%20pleno%20%7C%20sênior-facc15?style=for-the-badge)
 ![Linguagens](https://img.shields.io/badge/linguagens-agnóstico-60a5fa?style=for-the-badge)
 ![Licença](https://img.shields.io/badge/licença-MIT-f472b6?style=for-the-badge)
@@ -63,6 +63,7 @@ Todo desafio tem três partes — cada uma com um propósito claro:
 | 📝 To-Do List API | CRUD | [Ver desafio](junior/todo-list/README.md) | [Dicas](junior/todo-list/dicas.md) | [Soluções](junior/todo-list/SOLUTIONS.md) |
 | 🔐 Login com JWT | Autenticação | [Ver desafio](junior/login-jwt/README.md) | [Dicas](junior/login-jwt/dicas.md) | [Soluções](junior/login-jwt/SOLUTIONS.md) |
 | 📦 Gerenciador de Produtos | CRUD Avançado | [Ver desafio](junior/gerenciador-produtos/README.md) | [Dicas](junior/gerenciador-produtos/dicas.md) | [Soluções](junior/gerenciador-produtos/SOLUTIONS.md) |
+| 📦 Gestão de Pedidos | CRUD com Relacionamentos | [Ver desafio](junior/gestao-pedidos/README.md) | [Dicas](junior/gestao-pedidos/Dicas.md) | [Soluções](junior/gestao-pedidos/SOLUTIONS.md) |
 | 📊 Relatório de Vendas | Agregações | [Ver desafio](junior/vendas/README.md) | [Dicas](junior/vendas/dicas.md) | [Soluções](junior/vendas/SOLUTIONS.md) |
 
 ### 🟡 Pleno — Sistemas Avançados
@@ -81,7 +82,7 @@ Todo desafio tem três partes — cada uma com um propósito claro:
 
 ---
 
-> ✅ **6 desafios disponíveis** · 🚧 [**Em breve: OAuth2, Rate Limiting, GraphQL, Cache com Redis →**](./docs/ROADMAP.md)
+> ✅ **7 desafios disponíveis** · 🚧 [**Em breve: OAuth2, Rate Limiting, GraphQL, Cache com Redis →**](./docs/ROADMAP.md)
 
 ---
 
@@ -105,7 +106,7 @@ git clone https://github.com/Francisco-Montalvao/backend-challenges.git
 cd backend-challenges
 
 # Entre no desafio recomendado para iniciantes
-cd junior/crud/todo-list
+cd junior/todo-list
 
 # Leia o enunciado e comece!
 cat README.md
