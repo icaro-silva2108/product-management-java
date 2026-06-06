@@ -79,6 +79,15 @@ The application follows a layered architecture to promote separation of concerns
 - Java 21
 - Maven or Maven Wrapper
 - PostgreSQL
+
+### Create a .env file
+Use the .env.example file as an example
+```dotenv
+DB_URL=YOUR_DB_URL
+DB_NAME=YOUR_DB_NAME
+DB_USERNAME=YOUR_DB_USERNAME
+DB_PASSWORD=YOUR_DB_PASSWORD
+```
 ### Run the application
 
 ```bash
